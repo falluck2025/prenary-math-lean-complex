@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22293787.svg)](https://doi.org/10.5281/zenodo.22293787)
 
 > **声明**：本文工作尚未得到独立实验验证，全部结论均为形式化验证层面的初步结果。
 
